@@ -1,0 +1,29 @@
+
+body {
+  text-align: center;
+  background-color: white;
+  color: black;
+  width: 1280dp;
+}
+
+.center {
+  text-align: center;
+}
+
+.date {
+  text-align: right;
+}
+
+.debug {
+  background-color: cornflowerblue;
+}
+
+div {
+  display: block;
+  text-align: justify;
+}
+
+.title {
+  text-align: left;
+}
+
